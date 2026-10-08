@@ -51,29 +51,28 @@ I’m particularly interested in building **AI-powered applications**, developin
 
 ## 💼 Work Experience
 
-### 🔹 [Job Title] — [Company Name]
+### 🔹 AI Engineer — Virakavir Company
 
-📅 **[Start Date] – [End Date / Present]**
+📅 **2023 – 2024**
 
-* Developed and maintained software applications using **[Technology]**
-* Designed and implemented **AI-powered features and intelligent solutions**
-* Worked with **Python, .NET / C#, and AI technologies**
-* Developed solutions for **[Computer Vision / Machine Learning / Automation / Software Development]**
-* Collaborated with development teams to design and deliver software solutions
-* Improved **performance, automation, reliability, or user experience**
+* Developed AI solutions using **Python, Machine Learning & Deep Learning**
+* Worked on **Computer Vision & Image Processing**
+* Integrated AI models into software applications
+* Developed and optimized intelligent solutions
 
 ---
 
-### 🔹 [Previous Job Title] — [Company Name]
+### 🔹 AI Application Developer & Application Support Engineer — Kerman Motor Company
 
-📅 **[Start Date] – [End Date]**
+📅 **2024 – 2025**
 
-* Developed software applications using **[Technology]**
-* Worked on **[Project / System]**
-* Implemented **[Feature / Solution]**
-* Contributed to software architecture, development, testing, and maintenance
+* Developed **AI-powered applications** using Python and .NET / C#
+* Integrated AI features into software applications
+* Supported and maintained business-critical applications
+* Improved application **performance, reliability & stability**
 
 ---
+
 
 ## 🎓 Education
 
