@@ -1,77 +1,99 @@
-# 👋 Hi, I'm MohammadMahdi Hasani
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=MohammadMahdi%20Hasani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-### 🤖 AI Engineer & Software Developer | Python • AI • Computer Vision • .NET
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Software+Developer;Python+%7C+Machine+Learning+%7C+Computer+Vision;.NET+%7C+C%23+%7C+AI-Powered+Applications;Building+Intelligent+Software+for+the+Real+World" />
+</p>
 
-I’m an **AI Engineer and Software Developer** focused on building intelligent and practical software solutions.
-
-My work combines **Artificial Intelligence, Python, Machine Learning, Computer Vision, and Software Engineering** to turn ideas into real-world applications.
-
-I’m particularly interested in building **AI-powered applications**, developing intelligent systems with Python, and creating reliable software using **.NET / C#**.
-
----
-
-## 🧠 What I Do
-
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🐍 **Python Development for AI & Software Applications**
-* 👁️ **Computer Vision & Image Processing**
-* 🧠 **Deep Learning**
-* 🚀 **AI-Powered Applications**
-* 💻 **Software Development with .NET / C#**
-* 🔗 **AI Integration into Software Applications**
-* 🧩 **Designing and Developing Intelligent Software Systems**
+<p align="center">
+  <a href="https://github.com/MohammadMahdi-Hasani">
+    <img src="https://img.shields.io/github/followers/MohammadMahdi-Hasani?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/MohammadMahdi-Hasani">
+    <img src="https://img.shields.io/github/stars/MohammadMahdi-Hasani?label=Stars&style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-### 🤖 AI & Machine Learning
+I'm an **AI Engineer & Software Developer** passionate about building
+**intelligent, practical, and scalable software solutions**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+My work combines **Artificial Intelligence** with **Software Engineering**,
+from developing AI models and computer vision systems to integrating
+intelligent capabilities into real-world applications.
 
-### 👁️ Computer Vision & Image Processing
+### 🚀 What I Work With
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
+| 🤖 Artificial Intelligence | 💻 Software Engineering |
+|---|---|
+| Python | .NET / C# |
+| Machine Learning | Application Development |
+| Deep Learning | Backend Development |
+| Computer Vision | Software Architecture |
+| Image Processing | AI Integration |
+| AI Applications | Automation |
 
-**Computer Vision • Image Processing • Object Detection • Image Classification • Deep Learning for Vision**
+---
+
+## 🧠 Core Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-Engineering-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer-Vision-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine-Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+
+</p>
+
+---
+
+## 🛠️ Technology Stack
+
+### 🐍 AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,sklearn" />
+</p>
 
 ### 💻 Software Development
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,vscode" />
+</p>
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
 ### 🔹 AI Engineer — Virakavir Company
 
 📅 **2023 – 2024**
 
-* Developed AI solutions using **Python, Machine Learning & Deep Learning**
-* Worked on **Computer Vision & Image Processing**
-* Integrated AI models into software applications
-* Developed and optimized intelligent solutions
+- Developed AI solutions using **Python, Machine Learning & Deep Learning**
+- Worked on **Computer Vision & Image Processing**
+- Integrated AI models into software applications
+- Developed and optimized intelligent solutions
 
----
-
-### 🔹 AI Application Developer & Application Support Engineer — Kerman Motor Company
+### 🔹 AI Application Developer & Application Support Engineer — Kerman Motor
 
 📅 **2024 – 2025**
 
-* Developed **AI-powered applications** using Python and .NET / C#
-* Integrated AI features into software applications
-* Supported and maintained business-critical applications
-* Improved application **performance, reliability & stability**
+- Developed **AI-powered applications** using Python and .NET / C#
+- Integrated AI features into software applications
+- Supported and maintained business-critical applications
+- Improved application **performance, reliability & stability**
 
 ---
-
 
 ## 🎓 Education
 
@@ -81,116 +103,20 @@ I’m particularly interested in building **AI-powered applications**, developin
 
 📅 **2021 – 2025**
 
-**Professional Focus:** Artificial Intelligence • Software Engineering • Computer Vision • Intelligent Systems
+**Professional Focus:**  
+Artificial Intelligence • Software Engineering • Computer Vision • Intelligent Systems
 
 ---
 
-## 🔬 Areas of Interest
+## 🚀 What I'm Building
 
-### 🤖 Artificial Intelligence
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Image Processing
-* Intelligent Systems
-* AI-Powered Applications
-
-### 💻 Software Engineering
-
-* Python Development
-* .NET / C#
-* Application Development
-* Backend Development
-* Software Architecture
-* AI Integration
-* Automation & Intelligent Software
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI / Machine Learning
-
-**[Project Name]**
-
-An AI project focused on solving a real-world problem using Machine Learning or Deep Learning.
-
-`Python` `PyTorch` `Machine Learning` `Deep Learning`
-
----
-
-### 👁️ Computer Vision
-
-**[Project Name]**
-
-A computer vision and image processing application designed to solve a practical problem.
-
-`Python` `OpenCV` `Computer Vision`
-
----
-
-### 💻 Software Application
-
-**[Project Name]**
-
-A software application developed with a focus on clean architecture, reliability, and real-world usability.
-
-`.NET` `C#` `Software Development`
-
----
-
-### 🚀 AI-Powered Software
-
-**[Project Name]**
-
-A software application integrating AI capabilities into a practical user-facing solution.
-
-`Python` `AI` `.NET` `C#`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadMahdi-Hasani&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMahdi-Hasani&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://t.me/YOUR-TELEGRAM-USERNAME">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MohammadMahdi-Hasani">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📫 Let's Connect
-
-I'm open to **software development, AI projects, collaboration, and interesting technical challenges**.
-
-Feel free to explore my repositories and connect with me.
-
----
-
-<p align="center">
-  <i>Building intelligent software with AI, Python & .NET.</i>
-</p>
+```text
+Artificial Intelligence
+        ↓
+Machine Learning / Deep Learning
+        ↓
+Computer Vision & Intelligent Systems
+        ↓
+AI-Powered Applications
+        ↓
+Real-World Software
