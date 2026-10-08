@@ -76,15 +76,13 @@ I’m particularly interested in building **AI-powered applications**, developin
 
 ## 🎓 Education
 
-### 🎓 Shahid Bahonar University of Kerman (SBUK)
+### 🎓 Shahid Bahonar University of Kerman
 
-**MSC**
+**M.Sc. in Electrical Engineering — Telecommunication Engineering**
 
 📅 **2021 – 2025**
 
-Focused on the intersection of:
-
-**Artificial Intelligence × Software Engineering × Real-World Applications**
+**Professional Focus:** Artificial Intelligence • Software Engineering • Computer Vision • Intelligent Systems
 
 ---
 
