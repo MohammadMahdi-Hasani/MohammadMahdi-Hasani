@@ -76,7 +76,7 @@ I’m particularly interested in building **AI-powered applications**, developin
 
 ## 🎓 Education
 
-### 🎓 Shahrood University of Kerman (SBUK)
+### 🎓 Shahid Bahonar University of Kerman (SBUK)
 
 **MSC**
 
