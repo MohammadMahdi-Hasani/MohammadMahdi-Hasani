@@ -1,43 +1,69 @@
-<!-- Animated Header -->
+<!-- ==================== PROFESSIONAL HEADER ==================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=MohammadMahdi%20Hasani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <code><strong>MohammadMahdi Hasani</strong></code>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Software+Developer;Python+%7C+Machine+Learning+%7C+Computer+Vision;.NET+%7C+C%23+%7C+AI-Powered+Applications;Building+Intelligent+Software+for+the+Real+World" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1000&color=1E5A85&center=true&vCenter=true&width=760&height=32&lines=AI+Engineer+%26+Software+Developer;Python+%7C+Artificial+Intelligence+%7C+Computer+Vision;.NET+%7C+C%23+%7C+Software+Engineering;Building+Intelligent+Software+for+Real-World+Applications&cursor=true&cursorChar=%E2%96%8C"
+    alt="AI Engineer and Software Developer"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/AI_ENGINEERING-071A2F?style=flat-square&logo=python&logoColor=7EC8E3"
+    alt="AI Engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-0A2238?style=flat-square&logo=dotnet&logoColor=7EC8E3"
+    alt="Software Engineering"
+  />
+  <img
+    src="https://img.shields.io/badge/COMPUTER_VISION-103B5C?style=flat-square&logo=opencv&logoColor=7EC8E3"
+    alt="Computer Vision"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/MohammadMahdi-Hasani">
-    <img src="https://img.shields.io/github/followers/MohammadMahdi-Hasani?label=Followers&style=for-the-badge&logo=github" />
+    <img
+      src="https://img.shields.io/github/followers/MohammadMahdi-Hasani?style=flat-square&label=Followers&labelColor=071A2F&color=123E63&logo=github&logoColor=7EC8E3"
+      alt="GitHub Followers"
+    />
   </a>
   <a href="https://github.com/MohammadMahdi-Hasani">
-    <img src="https://img.shields.io/github/stars/MohammadMahdi-Hasani?label=Stars&style=for-the-badge&logo=github" />
+    <img
+      src="https://img.shields.io/github/stars/MohammadMahdi-Hasani?style=flat-square&label=Stars&labelColor=071A2F&color=123E63&logo=github&logoColor=7EC8E3"
+      alt="GitHub Stars"
+    />
   </a>
+</p>
+
+<p align="center">
+  <sub>
+    <i>Intelligent systems • Reliable software • Real-world impact</i>
+  </sub>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm an **AI Engineer & Software Developer** passionate about building
-**intelligent, practical, and scalable software solutions**.
+I'm **MohammadMahdi Hasani**, an **AI Engineer & Software Developer** passionate about building technology that turns ideas into practical solutions.
 
-My work combines **Artificial Intelligence** with **Software Engineering**,
-from developing AI models and computer vision systems to integrating
-intelligent capabilities into real-world applications.
+My background combines **Artificial Intelligence and Software Engineering**, with a focus on developing intelligent systems and turning them into reliable, real-world software.
 
-### 🚀 What I Work With
+I enjoy working across the full journey — from **problem solving and system design** to **development, integration, and deployment**.
 
-| 🤖 Artificial Intelligence | 💻 Software Engineering |
-|---|---|
-| Python | .NET / C# |
-| Machine Learning | Application Development |
-| Deep Learning | Backend Development |
-| Computer Vision | Software Architecture |
-| Image Processing | AI Integration |
-| AI Applications | Automation |
+<p align="center">
+  <b>🤖 Artificial Intelligence</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>💻 Software Engineering</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>🚀 Real-World Solutions</b>
+</p>
 
 ---
 
@@ -61,14 +87,29 @@ intelligent capabilities into real-world applications.
 
 ### 🐍 AI & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,sklearn" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
 </p>
 
 ### 💻 Software Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,vscode" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 </p>
 
 ---
@@ -110,13 +151,19 @@ Artificial Intelligence • Software Engineering • Computer Vision • Intelli
 
 ## 🚀 What I'm Building
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning / Deep Learning
-        ↓
-Computer Vision & Intelligent Systems
-        ↓
-AI-Powered Applications
-        ↓
-Real-World Software
+I build software at the intersection of **Artificial Intelligence and Software Engineering**.
+
+My focus is on transforming AI capabilities into **practical, production-oriented applications** — from developing intelligent models and computer vision solutions to integrating them into reliable software systems.
+
+### Areas of Focus
+
+| 🤖 AI Engineering | 💻 Software Engineering |
+|---|---|
+| Machine Learning | Python Development |
+| Deep Learning | .NET / C# |
+| Computer Vision | Application Development |
+| Image Processing | AI Integration |
+| Intelligent Systems | Software Architecture |
+| AI-Powered Applications | Performance & Reliability |
+
+> **Building intelligent software that is practical, reliable, and designed for real-world use.**
